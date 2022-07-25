@@ -8,7 +8,7 @@ My first web application. A Simply Clock App made with the aim of learning about
 
 > <https://antonioalanxs.github.io/Simply-Clock-App/>
 
-# What I have learned?
+# What have I learned?
 
 * Basics of HTML.
 * How works CSS Box Model and Display Positioning.
